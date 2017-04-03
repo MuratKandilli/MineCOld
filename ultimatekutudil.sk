@@ -3,3 +3,4 @@ on load:
   set {sag_tık} to "&7Bu kutuyu açabilmek için kendi anahtarıyla sağ tıkla."
   set {ultimate_kasaacılım} to "&8&l» &8Ultimate Kutusu"
   set {envantere_geldi_ultimate} to "&6Ultimate &7anahtarı envanterine eklendi."
+  set {genel_izinyok} to "&7Bu komutu kullanmak için iznin yok."
