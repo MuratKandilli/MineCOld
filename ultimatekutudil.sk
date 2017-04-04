@@ -8,3 +8,4 @@ on load:
   set {kutu_broadcast} to "&a{OYUNCU} &7kişisi {KUTU} kutusunu açarak {EŞYA} kazandı."
   set {yerin_yok} to "&7Bu kutuyu açabilmek için yeterli yerin yok."
   set {kazandıgın_esya} to "{KUTU} &7kutusunu açarak {EŞYA} &7çıkardın."
+  set {inceleme_kasa} to "&8&l» &bUltimate kutusu içindekiler"
