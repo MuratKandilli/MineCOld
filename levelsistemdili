@@ -1,0 +1,13 @@
+on load:
+	set {level::Attack::name} to "&5Attack"
+	set {level::Defense::name} to "&5Defense"
+	set {level::Workmanship::name} to "&5Workmanship"
+	set {level::Fascination::name} to "&5Fascination"
+	set {level::Cunning::name} to "&5Cunning"
+	set {level::Leadership::name} to "&5Leadership"
+	set {level::Attack_Bleeding::name} to "&4Bleeding Effect"
+	set {level::Defense_Health::name} to "&4Upgrades Health"
+	set {level::Workmanship_Break::name} to "&4Upgrades Breaking Time"
+	set {level::Fascination_Marriage::name} to "&4Upgrades Your Attractiveness"
+	set {level::Cunning_Theft::name} to "&4Upgrades Your Theft Abilites"
+	set {level::Leadership_Castle::name} to "&4Upgrades player capacity of the castle."
